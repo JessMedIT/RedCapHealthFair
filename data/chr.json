@@ -42,7 +42,7 @@
     {
         "field_name": "chr_specialty_1",
         "form_name": "chr",
-        "section_header": null,
+        "section_header": " ",
         "field_type": "checkbox",
         "field_label": "<div class=\"rich-text-field-label\"><p>Service/Specialty Referred:</p></div>",
         "select_choices_or_calculations": "0, Primary Care | 1, OB/GYN, Women's Health | 2, Dental | 3, Mental Health (psychiatry and/or psychology) | 4, Ophthalmology | 5, Optometry | 6, Otolaryngology (ENT) | 7, Neuruology | 8, Cardiology | 9, Dermatology | 10, Urology | 11, Nutrition | 12, Radiology | 13, Pediatrics | 14, HIV/AIDS Care | 15, Substance Abuse | 16, Housing and/or Case Management | 17, Other (please specify)",
